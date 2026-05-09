@@ -123,12 +123,14 @@ The application streamlines invoice workflows through:
 ## 📽️ Application Demo
 
 <p align="center">
-  🎬 Demo Video:  
-  👉 <a href="demo.webm">Click here to watch the BillMate demo</a>
+  🎬 <b>Watch BillMate Demo</b><br><br>
+  ▶️ <a href="https://youtu.be/6-NhasS6Y-Y" target="_blank">
+  Click here to watch the full demo on YouTube
+  </a>
 </p>
 
 <p align="center">
-  <i>Live preview of the BillMate workflow: creation, filtering, and data management.</i>
+  <i>Live walkthrough of invoice creation, search, filtering, and Excel export features.</i>
 </p>
 ---
 
