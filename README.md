@@ -123,15 +123,13 @@ The application streamlines invoice workflows through:
 ## 📽️ Application Demo
 
 <p align="center">
-  <video src="demo.webm" width="100%" autoplay loop muted playsinline>
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  <i>Live preview of the BillMate workflow: creation, filtering, and data management.</i>
+  🎬 Demo Video:  
+  👉 <a href="demo.webm">Click here to watch the BillMate demo</a>
 </p>
 
----
-
+<p align="center">
+  <i>Live preview of the BillMate workflow: creation, filtering, and data management.</i>
+</p>
 ---
 
 # 🛠 Tech Stack
