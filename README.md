@@ -5,7 +5,7 @@
 ============================================== -->
 
 <p align="center">
-  <img src="app-icon.png" alt="BillMate App Icon" width="140" />
+  <img src="app-icon.ico" alt="BillMate App Icon" width="140" />
 </p>
 
 <h1 align="center">💼 BillMate — Invoice Management System</h1>
@@ -118,12 +118,19 @@ The application streamlines invoice workflows through:
 
 ---
 
-# 🎬 Demo
+---
 
-You can watch the application demo here:
+## 📽️ Application Demo
 
-📽️ **Demo Video:**  
-[Download / View Demo](demo.mp4)
+<p align="center">
+  <video src="demo.webm" width="100%" autoplay loop muted playsinline>
+    Your browser does not support the video tag.
+  </video>
+  <br>
+  <i>Live preview of the BillMate workflow: creation, filtering, and data management.</i>
+</p>
+
+---
 
 ---
 
